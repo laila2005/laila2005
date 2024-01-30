@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @laila2005
 - 👀 I’m interested in learning new programing languages
-- 🌱 I’m currently learning javascript an HTML
+- 🌱 I’m currently learning C an C++
 - 📫 How to reach me this is my email laila.mf2005@gmail.com
 
 <!---
