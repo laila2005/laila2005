@@ -1,10 +1,10 @@
-# 👋 About Me
+# 👋 Hi, I'm Laila Mohamed Fikry
 
-Hi there! I’m **Laila Mohamed Fikry**, a passionate software engineering intern based in Cairo, Egypt. Currently, I'm honing my skills through the [ALX Africa program](https://www.alxafrica.com/). My interests lie in **AI** and **development**, and I have hands-on experience across various projects and technologies.
+Welcome to my GitHub profile! I'm a software engineering intern based in Cairo, Egypt, currently advancing my skills through the [ALX Africa program](https://www.alxafrica.com/). I'm passionate about **AI** and **development**, and I enjoy working on various projects that challenge and inspire me.
 
 ---
 
-## 🛠 Skills
+## 🔧 Skills
 
 ### **Technologies:**
 ![C#](https://img.shields.io/badge/C%23-%23F7DF1E?style=for-the-badge&logo=csharp&logoColor=white) 
@@ -30,6 +30,21 @@ Hi there! I’m **Laila Mohamed Fikry**, a passionate software engineering inter
 
 ---
 
+## 🌟 Projects
+
+Here are some of my top repositories and projects:
+
+### **1. [printf](https://github.com/laila2005/printf)**
+A custom implementation of the `printf` function, demonstrating my understanding of variadic functions and formatted output.
+
+### **2. [Simpleshell](https://github.com/your-username/simpleshell](https://github.com/laila2005/simple_shell)**
+A simple Unix shell implementation, showcasing my skills in process management, system calls, and shell scripting.
+
+### **3. [RGraphInsight](https://github.com/laila2005/RGraphInsight)**
+An R project for data visualization and analysis, featuring histogram and frequency polygon generation using `ggplot2`.
+
+---
+
 ## 🎓 Education & Experience
 
 - **Bachelor’s in AI** from Egyptian Russian University  
@@ -37,13 +52,10 @@ Hi there! I’m **Laila Mohamed Fikry**, a passionate software engineering inter
 
 ---
 
-Feel free to connect with me:
-- [LinkedIn](https://www.linkedin.com/in/laila-mohamed23)
+## 📫 Connect with Me
 
-Let’s build something amazing together! 🚀
+- [LinkedIn](https://www.linkedin.com/in/laila-mohamed-fikry)
+- [Twitter](https://twitter.com/laila_mfikry)
 
+Feel free to explore my repositories and reach out if you want to collaborate or just chat about technology. Let's build something amazing together! 🚀
 
-<!---
-laila2005/laila2005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
