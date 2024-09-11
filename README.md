@@ -54,8 +54,7 @@ An R project for data visualization and analysis, featuring histogram and freque
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/laila-mohamed-fikry)
-- [Twitter](https://twitter.com/laila_mfikry)
+- [LinkedIn](https://www.linkedin.com/in/laila-mohamed23)
 
 Feel free to explore my repositories and reach out if you want to collaborate or just chat about technology. Let's build something amazing together! 🚀
 
