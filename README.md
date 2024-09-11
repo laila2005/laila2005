@@ -37,7 +37,7 @@ Here are some of my top repositories and projects:
 ### **1. [printf](https://github.com/laila2005/printf)**
 A custom implementation of the `printf` function, demonstrating my understanding of variadic functions and formatted output.
 
-### **2. [Simpleshell](https://github.com/your-username/simpleshell](https://github.com/laila2005/simple_shell)**
+### **2. [Simpleshell](https://github.com/laila2005/simple_shell)**
 A simple Unix shell implementation, showcasing my skills in process management, system calls, and shell scripting.
 
 ### **3. [RGraphInsight](https://github.com/laila2005/RGraphInsight)**
