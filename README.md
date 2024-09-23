@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm a software engineering intern based in Cairo, 
 ![laila2005's GitHub status](https://github-readme-stats.vercel.app/api?username=laila2005&show_icons=true&hide_border=true)
 
 ---
-[![trophy](https://github-profile-trophy.vercel.app/?laila2005=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+https://github-profile-trophy.vercel.app/?laila2005=ryo-ma&theme=onedark
 ---
 ## 🌟 Projects
 
