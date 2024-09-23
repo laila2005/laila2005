@@ -1,4 +1,4 @@
-!Welcome
+![Welcome](https://media1.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=6c09b95217pzr4zt7orsvle5zaj3z6ra9b13xilh57xkx5fg&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
 # 👋 Hi, I'm Laila Mohamed Fikry
 
 Welcome to my GitHub profile! I'm a software engineering intern based in Cairo, Egypt, currently advancing my skills through the [ALX Africa program](https://www.alxafrica.com/). I'm passionate about **AI** and **development**, and I enjoy working on various projects that challenge and inspire me.
