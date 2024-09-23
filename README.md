@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a software engineering intern based in Cairo, 
 
 ---
 
-![laila-2005's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true))
+![laila2005's GitHub stats](https://github-readme-stats.vercel.app/api?username=laila2005&show_icons=true&hide_border=true))
 
 
 ## 🌟 Projects
