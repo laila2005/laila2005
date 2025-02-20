@@ -1,22 +1,71 @@
-<h1 align="center">Hi 👋, I'm Laila Mohamed Fikry</h1>
-<h3 align="center">Welcome to my GitHub profile! I'm a software engineering intern based in Cairo, Egypt, currently advancing my skills through the ALX Africa program. I'm passionate about AI and development, and I enjoy working on various projects that challenge and inspire me.</h3>
+![Welcome](https://media1.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=6c09b95217pzr4zt7orsvle5zaj3z6ra9b13xilh57xkx5fg&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
+# 👋 Hi, I'm Laila Mohamed Fikry
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=laila2005" alt="laila2005" /></a> </p>
+Welcome to my GitHub profile! I'm a software engineering intern based in Cairo, Egypt, currently advancing my skills through the [ALX Africa program](https://www.alxafrica.com/). I'm passionate about **AI** and **development**, and I enjoy working on various projects that challenge and inspire me.
 
-- 📫 How to reach me **Laila.mohamed.fikry@gmail.com**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qFviwQj69EGC6wuzA2yrfZt-QRe7JQYm/view?usp=sharing](https://drive.google.com/file/d/1qFviwQj69EGC6wuzA2yrfZt-QRe7JQYm/view?usp=sharing)
+## 🔧 Skills
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/laila2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="laila2005" height="30" width="40" /></a>
-</p>
+### **Technologies:**
+![C#](https://img.shields.io/badge/C%23-%23F7DF1E?style=for-the-badge&logo=csharp&logoColor=white) 
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
+![C](https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white) 
+![R](https://img.shields.io/badge/R-%23276DC3?style=for-the-badge&logo=r&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-%233B2D9A?style=for-the-badge&logo=python&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laila2005&show_icons=true&locale=en&layout=compact" alt="laila2005" /></p>
+### **Frameworks:**
+![React](https://img.shields.io/badge/React-%2300D4FF?style=for-the-badge&logo=react&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![Angular](https://img.shields.io/badge/Angular-%23E23237?style=for-the-badge&logo=angular&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laila2005&show_icons=true&locale=en" alt="laila2005" /></p>
+### **Soft Skills:**
+- Leadership
+- Communication
+- Critical Thinking
+- Time Management
+- Teamwork
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laila2005&" alt="laila2005" /></p>
+---
+
+![laila2005's GitHub status](https://github-readme-stats.vercel.app/api?username=laila2005&show_icons=true&hide_border=true)
+
+---
+## GitHub Profile Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=laila2005&theme=dracula)
+---
+
+## 🌟 Projects
+
+Here are some of my top repositories and projects:
+
+### **1. [printf](https://github.com/laila2005/printf)**
+A custom implementation of the `printf` function, demonstrating my understanding of variadic functions and formatted output.
+
+### **2. [Simpleshell](https://github.com/laila2005/simple_shell)**
+A simple Unix shell implementation, showcasing my skills in process management, system calls, and shell scripting.
+
+### **3. [RGraphInsight](https://github.com/laila2005/RGraphInsight)**
+An R project for data visualization and analysis, featuring histogram and frequency polygon generation using `ggplot2`.
+
+---
+
+## 🎓 Education & Experience
+
+- **Bachelor’s in AI** from Egyptian Russian University  
+- **ALX-Africa Software Engineering Program** (2023-2025)
+
+---
+
+## 📫 Connect with Me
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%2300A0DC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laila-mohamed23)
+- [![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laila.mohamed.fikry@gmail.com)
+
+Feel free to explore my repositories and reach out if you want to collaborate or just chat about technology. Let's build something amazing together! 🚀
