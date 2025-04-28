@@ -56,7 +56,7 @@ A full-stack project management system that streamlines team collaboration, task
 
 ## 🎓 Education & Experience
 
-- **Bachelor’s in AI** from Egyptian Russian University  
+- **Bachelor’s in SE** from Egyptian Russian University (2023 - 2027)
 - **ALX-Africa Software Engineering Program** (2023-2025)
 
 ---
