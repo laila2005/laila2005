@@ -41,19 +41,17 @@ Welcome to my GitHub profile! I'm a Junior software engineer based in Cairo, Egy
 ![trophy](https://github-profile-trophy.vercel.app/?username=laila2005&theme=dracula)
 ---
 
-## 🌟 Projects
-
+🌟 Projects
 Here are some of my top repositories and projects:
 
-### **1. [printf](https://github.com/laila2005/printf)**
-A custom implementation of the `printf` function, demonstrating my understanding of variadic functions and formatted output.
+1. [The Maze](https://github.com/walid-mehelba/The_Maze)
+An interactive maze game featuring dynamic player navigation and maze-solving logic, developed as part of a collaborative team project.
 
-### **2. [Simpleshell](https://github.com/laila2005/simple_shell)**
-A simple Unix shell implementation, showcasing my skills in process management, system calls, and shell scripting.
+2. [R-SkyOrb Dashboard](https://github.com/laila2005/R-SkyOrb-dashboard)
+A modular dashboard designed for real-time visualization of subsystem telemetry and status data, built using modern web technologies.
 
-### **3. [RGraphInsight](https://github.com/laila2005/RGraphInsight)**
-An R project for data visualization and analysis, featuring histogram and frequency polygon generation using `ggplot2`.
-
+3. [Final Project Management System](https://github.com/laila2005/FinalProjectManagmentSystem)
+A full-stack project management system that streamlines team collaboration, task tracking, and reporting.
 ---
 
 ## 🎓 Education & Experience
