@@ -60,7 +60,6 @@ Here are some featured projects I’ve worked on:
 1. **[The Maze](https://github.com/walid-mehelba/The_Maze)** – A 3D raycasting maze game using SDL2 with textured walls, collision logic, and interactive gameplay.
 2. **[R-SkyOrb Dashboard](https://github.com/laila2005/R-SkyOrb-dashboard)** – A real-time telemetry visualization dashboard using modern web technologies and modular architecture.
 3. **[Final Project Management System](https://github.com/laila2005/FinalProjectManagmentSystem)** – A full-stack system to streamline project tracking, user roles, and collaboration.
-4. **Flutter Quiz App** *(Private Repo)* – A cross-platform mobile quiz application built using Flutter and Firebase, featuring timer-based scoring and cloud storage.
 
 ---
 
