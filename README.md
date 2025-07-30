@@ -2,10 +2,6 @@
 
 # 👋 Hi, I'm Laila Mohamed Fikry
 
-Welcome to my GitHub! I’m a passionate and driven **Junior Software Engineer** based in **Cairo, Egypt**. I’m currently enrolled in the rigorous [ALX Africa Software Engineering Program](https://www.alxafrica.com/) and pursuing my degree in Software Engineering at the **Egyptian Russian University**.
-
-My journey in tech has led me through diverse domains—**mobile development, full-stack web, game development**, and **data analysis**—empowering me to build meaningful, user-centric software solutions.
-
 Welcome to my GitHub! I’m a passionate Software Engineer based in Cairo, Egypt. I’m a proud graduate of the intensive [ALX Africa Software Engineering Program](https://www.alxafrica.com/) and currently pursuing my degree in Software Engineering at the Egyptian Russian University.
 
 My journey in tech has led me through diverse domains—mobile development, full-stack web, game development, and data analysis—empowering me to build meaningful, user-centric software solutions.
