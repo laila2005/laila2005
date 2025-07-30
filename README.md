@@ -60,10 +60,9 @@ My journey in tech has led me through diverse domains—mobile development, full
 ## 🌟 Projects
 
 Here are some featured projects I’ve worked on:
-
-1. **[The Maze](https://github.com/walid-mehelba/The_Maze)** – A 3D raycasting maze game using SDL2 with textured walls, collision logic, and interactive gameplay.
-2. **[R-SkyOrb Dashboard](https://github.com/laila2005/R-SkyOrb-dashboard)** – A real-time telemetry visualization dashboard using modern web technologies and modular architecture.
-3. **[Final Project Management System](https://github.com/laila2005/FinalProjectManagmentSystem)** – A full-stack system to streamline project tracking, user roles, and collaboration.
+1. **[DishCraft](https://github.com/laila2005/DishCraft)** – DishCraft is an innovative web application designed to simplify home cooking by providing personalized recipe suggestions based on available ingredients and dietary preferences. It aims to connect food enthusiasts with professional chefs, fostering a community around culinary creativity and shared knowledge.
+2. **[The Maze](https://github.com/walid-mehelba/The_Maze)** – A 3D raycasting maze game using SDL2 with textured walls, collision logic, and interactive gameplay.
+3. **[R-SkyOrb Dashboard](https://github.com/laila2005/R-SkyOrb-dashboard)** – A real-time telemetry visualization dashboard using modern web technologies and modular architecture.
 
 ---
 
