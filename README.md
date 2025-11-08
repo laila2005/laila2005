@@ -59,7 +59,9 @@ My journey in tech has led me through diverse domains—mobile development, full
 
 ## 🏆 GitHub Trophy
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=laila2005&theme=dracula&margin-w=15&row=2&column=3)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=laila2005&theme=dracula&margin-w=15&row=2&column=3&no-frame=true"/>
+</p>
 
 ---
 
