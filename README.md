@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Laila Mohamed Fikry
 
-Welcome to my GitHub! I’m a passionate Software Engineer based in Cairo, Egypt. I’m a proud graduate of the intensive [ALX Africa Software Engineering Program](https://www.alxafrica.com/) and currently pursuing my degree in Software Engineering at the Egyptian Russian University.
+Welcome to my GitHub! I’m a passionate Software Engineer based in Cairo, Egypt. I’m a proud graduate of the intensive [ALX Africa Software Engineering Program](https://www.alxafrica.com/) and currently pursuing my degree in Computer Science at El Sewedy University of Technology.
 
 My journey in tech has led me through diverse domains—mobile development, full-stack web, game development, and data analysis—empowering me to build meaningful, user-centric software solutions.
 
@@ -25,6 +25,7 @@ My journey in tech has led me through diverse domains—mobile development, full
 ![CSS](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2300D4FF?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ### 📱 **Mobile Development**
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -32,6 +33,7 @@ My journey in tech has led me through diverse domains—mobile development, full
 
 ### 🗄️ **Database & Backend**
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-%23000000?style=for-the-badge&logo=express&logoColor=white)
@@ -64,7 +66,8 @@ Here are some featured projects I’ve worked on:
 
 ## 🎓 Education & Experience
 
-- 🎓 **B.Sc. in Software Engineering** – Egyptian Russian University *(2023–2027)*
+- 🎓 🎓 **B.Sc. in Computer Science** – El Sewedy University (Polytechnic of Egypt) *(2025–2028)*  
+  *(Transferred from the Egyptian Russian University – Software Engineering Major)*  
 - 🎓 **ALX Africa SE Program** – Full-stack Engineering Track *(2023–2025)*
 - 📱 **Mobile App Development with Flutter** – Sprints Bootcamp *(2025)*
 
