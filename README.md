@@ -45,11 +45,17 @@ My journey in tech has led me through diverse domains—mobile development, full
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=laila2005&show_icons=true&hide_border=true&theme=radical&cache_seconds=1800)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laila2005&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=laila2005&theme=radical&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=laila2005&show_icons=true&hide_border=true&theme=radical&cache_seconds=1800" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=laila2005&theme=radical&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laila2005&layout=compact&theme=radical&hide_border=true" height="120"/>
+</p>
 
 ---
+
 
 ## 🏆 GitHub Trophy
 
