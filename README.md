@@ -45,7 +45,9 @@ My journey in tech has led me through diverse domains—mobile development, full
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=laila2005&show_icons=true&hide_border=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=laila2005&show_icons=true&hide_border=true&theme=radical&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laila2005&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=laila2005&theme=radical&hide_border=true)
 
 ---
 
