@@ -1,10 +1,12 @@
 ![Welcome](https://media1.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=6c09b95217pzr4zt7orsvle5zaj3z6ra9b13xilh57xkx5fg&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
 
-# 👋 Hi, I'm Laila Mohamed Fikry
+<h1 align="center">👋 Hi, I'm Laila Mohamed Fikry</h1>
 
-Welcome to my GitHub! I’m a passionate Software Engineer based in Cairo, Egypt. I’m a proud graduate of the intensive [ALX Africa Software Engineering Program](https://www.alxafrica.com/) and currently pursuing my degree in Computer Science at El Sewedy University of Technology.
-
-My journey in tech has led me through diverse domains—mobile development, full-stack web, game development, and data analysis—empowering me to build meaningful, user-centric software solutions.
+<p align="center">
+  🌍 Based in Cairo, Egypt · 💻 Computer Science Student at <strong>El Sewedy University (Polytechnic of Egypt)</strong><br>
+  🎓 Graduate of the <a href="https://www.alxafrica.com/">ALX Africa Software Engineering Program</a><br>
+  💡 Passionate about <strong>Full-Stack Development</strong>, <strong>Mobile Apps</strong>, and <strong>Data-Driven Solutions</strong>.
+</p>
 
 ---
 
@@ -45,6 +47,8 @@ My journey in tech has led me through diverse domains—mobile development, full
 
 ---
 
+## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=laila2005&show_icons=true&hide_border=true&theme=radical&cache_seconds=1800" height="150"/>
   <img src="https://streak-stats.demolab.com?user=laila2005&theme=radical&hide_border=true" height="150"/>
@@ -56,7 +60,6 @@ My journey in tech has led me through diverse domains—mobile development, full
 
 ---
 
-
 ## 🏆 GitHub Trophy
 
 <p align="center">
@@ -65,29 +68,44 @@ My journey in tech has led me through diverse domains—mobile development, full
 
 ---
 
-## 🌟 Projects
+## 🌟 Featured Projects
 
-Here are some featured projects I’ve worked on:
-1. **[DishCraft](https://github.com/laila2005/DishCraft)** – DishCraft is an innovative web application designed to simplify home cooking by providing personalized recipe suggestions based on available ingredients and dietary preferences. It aims to connect food enthusiasts with professional chefs, fostering a community around culinary creativity and shared knowledge.
-2. **[The Maze](https://github.com/walid-mehelba/The_Maze)** – A 3D raycasting maze game using SDL2 with textured walls, collision logic, and interactive gameplay.
-3. **[R-SkyOrb Dashboard](https://github.com/laila2005/R-SkyOrb-dashboard)** – A real-time telemetry visualization dashboard using modern web technologies and modular architecture.
+Here are a few projects that reflect my technical journey and creativity:
+
+### 🍽️ [DishCraft](https://github.com/laila2005/DishCraft)
+A web app that simplifies home cooking by offering personalized recipe suggestions based on ingredients and preferences. It connects food lovers and chefs through shared culinary creativity.
+
+### 🌀 [The Maze](https://github.com/walid-mehelba/The_Maze)
+A 3D raycasting maze game built with SDL2, featuring textured walls, collision detection, and smooth interactive gameplay.
+
+### 🚀 [R-SkyOrb Dashboard](https://github.com/laila2005/R-SkyOrb-dashboard)
+A modular, real-time telemetry visualization dashboard for spacecraft subsystems—developed using modern web technologies and clean architecture principles.
 
 ---
 
 ## 🎓 Education & Experience
 
-- 🎓 🎓 **B.Sc. in Computer Science** – El Sewedy University (Polytechnic of Egypt) *(2025–2028)*  
+- 🎓 **B.Sc. in Computer Science** – El Sewedy University (Polytechnic of Egypt) *(2025–2028)*  
   *(Transferred from the Egyptian Russian University – Software Engineering Major)*  
-- 🎓 **ALX Africa SE Program** – Full-stack Engineering Track *(2023–2025)*
+- 💻 **ALX Africa SE Program** – Full-Stack Engineering Track *(2023–2025)*  
 - 📱 **Mobile App Development with Flutter** – Sprints Bootcamp *(2025)*
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Connect With Me
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laila-mohamed23)
-- [![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laila.mohamed.fikry@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/laila-mohamed23">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:laila.mohamed.fikry@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-> 💬 *Feel free to explore my repositories or reach out for collaboration. I’m always excited to learn, build, and share amazing things with the tech community!* 🚀
+<p align="center">
+  💬 <em>Feel free to explore my repositories or reach out for collaboration.  
+  I’m always excited to learn, build, and share amazing things with the tech community!</em> 🚀
+</p>
