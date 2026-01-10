@@ -51,20 +51,21 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=laila2005&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laila2005&theme=radical&hide_border=true" alt="GitHub Streak" height="165">
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=laila2005&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laila2005&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laila2005&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="165">
+</p>
 
 ---
 
-## 🏆 GitHub Trophy
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=laila2005&theme=dracula&margin-w=15&row=2&column=3&no-frame=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=laila2005&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies">
 </p>
 
 ---
