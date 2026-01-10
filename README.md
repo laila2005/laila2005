@@ -50,15 +50,6 @@
 
 ---
 
-## 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=laila2005&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
-
-## 📈 Contribution Activity
-![Contribution Graph](https://github.com/laila2005/laila2005/raw/output/github-contribution-grid-snake.svg)
-
----
-
 ## 🌟 Featured Projects
 
 Here are a few projects that reflect my technical journey and creativity:
