@@ -68,7 +68,7 @@ A modular, real-time telemetry visualization dashboard for spacecraft subsystems
 ## 🎓 Education & Experience
 
 - 🎓 **B.Sc. in Computer Science** – El Sewedy University (Polytechnic of Egypt) *(2025–2028)*  
-  *(Transferred from the Egyptian Russian University – Software Engineering Major)*  
+  *(Transferred from the Egyptian Russian University – Software Engineering Major (2023 - 2025))*  
 - 💻 **ALX Africa SE Program** – Full-Stack Engineering Track *(2023–2025)*  
 - 📱 **Mobile App Development with Flutter** – Sprints Bootcamp *(2025)*
 
