@@ -48,24 +48,26 @@
 - Time Management & Teamwork  
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=laila2005&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laila2005&theme=radical&hide_border=true" alt="GitHub Streak" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=laila2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laila2005&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laila2005&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laila2005&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=laila2005&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=laila2005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
