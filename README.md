@@ -49,11 +49,10 @@
 - Time Management & Teamwork  
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=laila2005&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=laila2005&theme=radical&hide_border=true&v=1" />
 </p>
 
 ---
@@ -61,8 +60,9 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=laila2005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=laila2005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&v=1" />
 </p>
+---
 
 ## 🌟 Featured Projects
 
