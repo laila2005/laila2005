@@ -53,7 +53,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laila2005&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=laila2005&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -61,10 +61,8 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=laila2005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=laila2005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
 </p>
-
----
 
 ## 🌟 Featured Projects
 
