@@ -49,18 +49,11 @@
 - Time Management & Teamwork  
 
 ---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=laila2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=laila2005&theme=radical)" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laila2005&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laila2005&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laila2005&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 ---
