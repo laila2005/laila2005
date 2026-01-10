@@ -48,21 +48,10 @@
 - Critical Thinking & Problem Solving  
 - Time Management & Teamwork  
 
----
-## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=laila2005&show_icons=true&theme=radical)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=laila2005&theme=radical&hide_border=true&v=1" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laila2005&layout=compact&theme=radical)
 
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=laila2005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&v=1" />
-</p>
----
 
 ## 🌟 Featured Projects
 
