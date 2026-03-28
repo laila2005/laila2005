@@ -15,14 +15,17 @@
 
 <p align="center">
   🌍 Based in <b>Cairo, Egypt</b><br>
-  🎓 CS Student at <b>El Sewedy University (Polytechnic of Egypt)</b><br>
+  💻 Freelance Full-Stack Developer @ <b>Media Gate Company</b><br>
+  🎓 CS Student @ <b>El Sewedy University (Polytechnic of Egypt)</b><br>
   🚀 <b>ALX Africa</b> Software Engineering Alumna
 </p>
 
 ---
 
 ### 💻 About Me
-I am a **Full-Stack Developer** dedicated to building high-performance, scalable web applications. I specialize in **ASP.NET Core** for robust backend systems and leverage modern **JavaScript frameworks** to create responsive, user-centric frontends. My focus is on clean architecture, efficient database management, and solving complex technical challenges.
+I am a **Software Engineer** specializing in building scalable, data-driven applications. Currently, I am contributing to the **Bagi Job** platform at Media Gate Company, focusing on full-stack development and system scaling. With a background in the **ALX Africa SE program**, I have experience developing over 30 projects ranging from backend ecosystems to interactive web platforms.
+
+I am passionate about clean architecture, high-performance backends, and efficient database management. I thrive in dynamic environments where I can apply my skills in **ASP.NET Core** and **Modern JavaScript** to solve real-world problems.
 
 ---
 
@@ -30,22 +33,22 @@ I am a **Full-Stack Developer** dedicated to building high-performance, scalable
 
 #### 🖥️ Languages & Core
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,js,py,cpp,java,dart" />
+  <img src="https://skillicons.dev/icons?i=cs,js,py,java,cpp,dart,bash,r" />
 </p>
 
 #### 🌐 Web & Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,react,nextjs,html,css,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,react,nextjs,html,css,tailwind,bootstrap" />
 </p>
 
-#### 📱 Mobile Development
+#### 📱 Mobile & Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,firebase" />
+  <img src="https://skillicons.dev/icons?i=flutter,firebase,mysql,postgres,mongodb" />
 </p>
 
-#### 🗄️ Databases & DevTools
+#### ⚙️ DevTools & OS
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,github,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux,ubuntu,postman" />
 </p>
 
 ---
@@ -54,9 +57,9 @@ I am a **Full-Stack Developer** dedicated to building high-performance, scalable
 
 | Project | Description | Key Tech |
 | :--- | :--- | :--- |
-| **[Tech-Road](https://github.com/laila2005/Tech-Road)** | A roadmap-based platform designed to help developers navigate their learning journey and track their individual progress. | **JavaScript, HTML5, CSS3** |
-| **[DishCraft](https://github.com/laila2005/DishCraft)** | A full-stack recipe recommendation engine featuring ingredient-based search and personalized user profiles. | **React, Node.js, Express, MongoDB** |
-| **[R-SkyOrb Dashboard](https://github.com/laila2005/R-SkyOrb-dashboard)** | A modular, real-time telemetry visualization dashboard specifically designed for spacecraft subsystems. | **Next.js, WebSockets, Tailwind CSS** |
+| **[DishCraft](https://github.com/laila2005/DishCraft)** | **Lead UI/UX & Frontend.** A full-stack recipe recommendation engine featuring ingredient-based search and personalized user profiles. | **React, Node.js, Express, MongoDB** |
+| **[R-SkyOrb Dashboard](https://github.com/laila2005/R-SkyOrb-dashboard)** | A real-time modular telemetry visualization dashboard designed for spacecraft subsystem monitoring and data tracking. | **Next.js, WebSockets, Tailwind CSS** |
+| **[The Maze](https://github.com/walid-mehelba/The_Maze)** | A 3D raycasting maze game engine built with SDL2, featuring textured walls, collision detection, and interactive gameplay. | **C, SDL2** |
 
 ---
 
