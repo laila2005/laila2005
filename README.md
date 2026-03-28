@@ -28,10 +28,24 @@ I am a **Full-Stack Developer** dedicated to building high-performance, scalable
 
 ### 🛠️ Professional Toolbox
 
+#### 🖥️ Languages & Core
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,react,nextjs,python,cpp,java" /><br>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,dart,flutter" /><br>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=cs,js,py,cpp,java,dart" />
+</p>
+
+#### 🌐 Web & Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,react,nextjs,html,css,tailwind,bootstrap" />
+</p>
+
+#### 📱 Mobile Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,firebase" />
+</p>
+
+#### 🗄️ Databases & DevTools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,github,vscode,visualstudio" />
 </p>
 
 ---
