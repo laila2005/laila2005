@@ -5,7 +5,7 @@
 <h1 align="center">✨ Hi, I'm Laila Mohamed Fikry ✨</h1>
 
 <p align="center">
-  <strong>Software Engineer | Full-Stack & Mobile Developer | CS Student</strong>
+  <strong>Full-Stack Software Engineer | .NET & JavaScript Specialist</strong>
 </p>
 
 <p align="center">
@@ -15,14 +15,14 @@
 
 <p align="center">
   🌍 Based in <b>Cairo, Egypt</b><br>
-  🎓 Student at <b>El Sewedy University (Polytechnic of Egypt)</b><br>
-  🚀 Graduate of the <b>ALX Africa Software Engineering Program</b>
+  🎓 CS Student at <b>El Sewedy University (Polytechnic of Egypt)</b><br>
+  🚀 <b>ALX Africa</b> Software Engineering Alumna
 </p>
 
 ---
 
 ### 💻 About Me
-I am a passionate **Software Engineer** specializing in building scalable web and mobile applications. I enjoy bridging the gap between complex backend logic and intuitive frontend design. Currently exploring deep-dives into **.NET ecosystems** and **Real-time Data Systems**.
+I am a **Full-Stack Developer** who thrives on solving complex problems with elegant code. My expertise lies in building scalable web ecosystems using **ASP.NET Core** and **Modern JavaScript frameworks**. I bridge the gap between robust backend architecture and high-performance frontend interfaces.
 
 ---
 
@@ -30,31 +30,25 @@ I am a passionate **Software Engineer** specializing in building scalable web an
 
 #### 🖥️ Languages & Core
 ![C#](https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233B2D9A?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-%233B2D9A?style=for-the-badge&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 #### 🌐 Web & Backend
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-%23000000?style=for-the-badge&logo=express&logoColor=white)
 
-#### 📱 Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-#### 🗄️ Databases
+#### 🗄️ Databases & Tools
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=laila2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Laila's GitHub Stats" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laila2005&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
@@ -62,20 +56,18 @@ I am a passionate **Software Engineer** specializing in building scalable web an
 
 ---
 
-### 🌟 Featured Projects
+### 🌟 Featured Full-Stack Projects
 
-| Project | Description | Tech Stack |
+| Project | Description | Key Tech |
 | :--- | :--- | :--- |
-| **[DishCraft](https://github.com/laila2005/DishCraft)** | Personalized recipe engine based on user ingredients. | React, Node.js, MongoDB |
-| **[The Maze](https://github.com/walid-mehelba/The_Maze)** | A 3D raycasting game engine built from scratch. | C, SDL2 |
-| **[R-SkyOrb](https://github.com/laila2005/R-SkyOrb-dashboard)** | Real-time spacecraft telemetry visualization. | Next.js, WebSockets |
+| **[Tech-Road](https://github.com/laila2005/Tech-Road)** | A comprehensive learning management platform for developers to track and build their career paths. | **ASP.NET Core, SQL Server, Entity Framework** |
+| **[DishCraft](https://github.com/laila2005/DishCraft)** | A full-stack recipe recommendation engine with custom user profiles and ingredient filtering. | **React, Node.js, Express, MongoDB** |
+| **[R-SkyOrb Dashboard](https://github.com/laila2005/R-SkyOrb-dashboard)** | Real-time telemetry visualization for aerospace systems featuring live data streams. | **Next.js, WebSockets, Tailwind CSS** |
 
 ---
 
-### 🎓 Experience & Learning
-* **B.Sc. Computer Science** @ El Sewedy University (2025 - 2028)
-* **Software Engineering** @ ALX Africa (2023 - 2025)
-* **Mobile App Development** @ Sprints Bootcamp (2025)
+### 🎨 Creativity Meets Engineering
+Outside of the terminal, I am an **art workshop organizer** specializing in pottery and tote bag painting. I bring this same creative attention to detail into my UI/UX designs—ensuring that every project I build is as visually appealing as it is functionally sound.
 
 ---
 
@@ -84,5 +76,5 @@ I am a passionate **Software Engineer** specializing in building scalable web an
 </p>
 
 <p align="center">
-  💬 <em>Let's build something amazing together!</em> 🚀
+  🚀 <em>Let's build something impactful together!</em>
 </p>
