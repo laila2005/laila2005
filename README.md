@@ -54,9 +54,9 @@ I am a **Full-Stack Developer** dedicated to building high-performance, scalable
 
 | Project | Description | Key Tech |
 | :--- | :--- | :--- |
-| **[Tech-Road](https://github.com/laila2005/Tech-Road)** | A learning management platform for developers to track and build their career paths. | **ASP.NET Core, SQL Server, EF Core** |
-| **[DishCraft](https://github.com/laila2005/DishCraft)** | A web application that simplifies home cooking by offering personalized recipe suggestions based on ingredients and preferences. | **React, Node.js, Express, MongoDB** |
-| **[R-SkyOrb Dashboard](https://github.com/laila2005/R-SkyOrb-dashboard)** | A modular, real-time telemetry visualization dashboard for spacecraft subsystems. | **Next.js, WebSockets, Tailwind CSS** |
+| **[Tech-Road](https://github.com/laila2005/Tech-Road)** | A roadmap-based platform designed to help developers navigate their learning journey and track their individual progress. | **JavaScript, HTML5, CSS3** |
+| **[DishCraft](https://github.com/laila2005/DishCraft)** | A full-stack recipe recommendation engine featuring ingredient-based search and personalized user profiles. | **React, Node.js, Express, MongoDB** |
+| **[R-SkyOrb Dashboard](https://github.com/laila2005/R-SkyOrb-dashboard)** | A modular, real-time telemetry visualization dashboard specifically designed for spacecraft subsystems. | **Next.js, WebSockets, Tailwind CSS** |
 
 ---
 
