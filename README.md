@@ -22,7 +22,7 @@
 ---
 
 ### 💻 About Me
-I am a **Full-Stack Developer** who thrives on solving complex problems with elegant code. My expertise lies in building scalable web ecosystems using **ASP.NET Core** and **Modern JavaScript frameworks**. I bridge the gap between robust backend architecture and high-performance frontend interfaces.
+I am a **Full-Stack Developer** dedicated to building high-performance, scalable web applications. I specialize in **ASP.NET Core** for robust backend systems and leverage modern **JavaScript frameworks** to create responsive, user-centric frontends. My focus is on clean architecture, efficient database management, and solving complex technical challenges.
 
 ---
 
@@ -44,7 +44,6 @@ I am a **Full-Stack Developer** who thrives on solving complex problems with ele
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
 
@@ -66,15 +65,10 @@ I am a **Full-Stack Developer** who thrives on solving complex problems with ele
 
 ---
 
-### 🎨 Creativity Meets Engineering
-Outside of the terminal, I am an **art workshop organizer** specializing in pottery and tote bag painting. I bring this same creative attention to detail into my UI/UX designs—ensuring that every project I build is as visually appealing as it is functionally sound.
-
----
-
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </p>
 
 <p align="center">
-  🚀 <em>Let's build something impactful together!</em>
+  🚀 <em>Open for technical collaborations and innovative software projects!</em>
 </p>
