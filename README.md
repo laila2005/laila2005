@@ -22,7 +22,7 @@
 ---
 
 ### 💻 About Me
-I am a **Full-Stack Developer** dedicated to building high-performance, scalable web applications. I specialize in **ASP.NET Core** for robust backend systems and leverage modern **JavaScript frameworks** to create responsive, user-centric frontends. My focus is on clean architecture and solving complex technical challenges.
+I am a **Full-Stack Developer** dedicated to building high-performance, scalable web applications. I specialize in **ASP.NET Core** for robust backend systems and leverage modern **JavaScript frameworks** to create responsive, user-centric frontends. My focus is on clean architecture, efficient database management, and solving complex technical challenges.
 
 ---
 
@@ -54,14 +54,14 @@ I am a **Full-Stack Developer** dedicated to building high-performance, scalable
 
 | Project | Description | Key Tech |
 | :--- | :--- | :--- |
-| **[Tech-Road](https://github.com/laila2005/Tech-Road)** | A comprehensive learning management platform for developers to track and build their career paths. | **ASP.NET Core, SQL Server, EF Core** |
-| **[DishCraft](https://github.com/laila2005/DishCraft)** | A full-stack recipe recommendation engine with custom user profiles and ingredient filtering. | **React, Node.js, Express, MongoDB** |
-| **[R-SkyOrb Dashboard](https://github.com/laila2005/R-SkyOrb-dashboard)** | Real-time telemetry visualization for aerospace systems featuring live data streams. | **Next.js, WebSockets, Tailwind CSS** |
+| **[Tech-Road](https://github.com/laila2005/Tech-Road)** | A learning management platform for developers to track and build their career paths. | **ASP.NET Core, SQL Server, EF Core** |
+| **[DishCraft](https://github.com/laila2005/DishCraft)** | A web application that simplifies home cooking by offering personalized recipe suggestions based on ingredients and preferences. | **React, Node.js, Express, MongoDB** |
+| **[R-SkyOrb Dashboard](https://github.com/laila2005/R-SkyOrb-dashboard)** | A modular, real-time telemetry visualization dashboard for spacecraft subsystems. | **Next.js, WebSockets, Tailwind CSS** |
 
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The+purpose+of+abstraction+is+not+to+be+vague,+but+to+create+a+new+semantic+level+in+which+one+can+be+absolutely+precise." alt="Quote" />
 </p>
 
 <p align="center">
