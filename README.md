@@ -22,36 +22,16 @@
 ---
 
 ### 💻 About Me
-I am a **Full-Stack Developer** dedicated to building high-performance, scalable web applications. I specialize in **ASP.NET Core** for robust backend systems and leverage modern **JavaScript frameworks** to create responsive, user-centric frontends. My focus is on clean architecture, efficient database management, and solving complex technical challenges.
+I am a **Full-Stack Developer** dedicated to building high-performance, scalable web applications. I specialize in **ASP.NET Core** for robust backend systems and leverage modern **JavaScript frameworks** to create responsive, user-centric frontends. My focus is on clean architecture and solving complex technical challenges.
 
 ---
 
-### 🔧 Tech Stack
+### 🛠️ Professional Toolbox
 
-#### 🖥️ Languages & Core
-![C#](https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-%233B2D9A?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-#### 🌐 Web & Backend
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-#### 🗄️ Databases & Tools
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
-
-### 🏆 Achievements & GitHub Milestones
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=laila2005&theme=tokyonight&no-bg=true&margin-w=4" alt="user trophies" />
-  </a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,react,nextjs,python,cpp,java" /><br>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,dart,flutter" /><br>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,git,github,vscode" />
 </p>
 
 ---
@@ -60,7 +40,7 @@ I am a **Full-Stack Developer** dedicated to building high-performance, scalable
 
 | Project | Description | Key Tech |
 | :--- | :--- | :--- |
-| **[Tech-Road](https://github.com/laila2005/Tech-Road)** | A comprehensive learning management platform for developers to track and build their career paths. | **ASP.NET Core, SQL Server, Entity Framework** |
+| **[Tech-Road](https://github.com/laila2005/Tech-Road)** | A comprehensive learning management platform for developers to track and build their career paths. | **ASP.NET Core, SQL Server, EF Core** |
 | **[DishCraft](https://github.com/laila2005/DishCraft)** | A full-stack recipe recommendation engine with custom user profiles and ingredient filtering. | **React, Node.js, Express, MongoDB** |
 | **[R-SkyOrb Dashboard](https://github.com/laila2005/R-SkyOrb-dashboard)** | Real-time telemetry visualization for aerospace systems featuring live data streams. | **Next.js, WebSockets, Tailwind CSS** |
 
