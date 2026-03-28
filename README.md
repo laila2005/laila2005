@@ -47,10 +47,11 @@ I am a **Full-Stack Developer** dedicated to building high-performance, scalable
 
 ---
 
-### 📊 GitHub Activity
+### 🏆 Achievements & GitHub Milestones
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=laila2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Laila's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laila2005&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=laila2005&theme=tokyonight&no-bg=true&margin-w=4" alt="user trophies" />
+  </a>
 </p>
 
 ---
