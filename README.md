@@ -53,16 +53,6 @@ I am passionate about clean architecture, high-performance backends, and efficie
 
 ---
 
-### 🌟 Featured Full-Stack Projects
-
-| Project | Description | Key Tech |
-| :--- | :--- | :--- |
-| **[DishCraft](https://github.com/laila2005/DishCraft)** | **Lead UI/UX & Frontend.** A full-stack recipe recommendation engine featuring ingredient-based search and personalized user profiles. | **React, Node.js, Express, MongoDB** |
-| **[R-SkyOrb Dashboard](https://github.com/laila2005/R-SkyOrb-dashboard)** | A real-time modular telemetry visualization dashboard designed for spacecraft subsystem monitoring and data tracking. | **Next.js, WebSockets, Tailwind CSS** |
-| **[The Maze](https://github.com/walid-mehelba/The_Maze)** | A 3D raycasting maze game engine built with SDL2, featuring textured walls, collision detection, and interactive gameplay. | **C, SDL2** |
-
----
-
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The+purpose+of+abstraction+is+not+to+be+vague,+but+to+create+a+new+semantic+level+in+which+one+can+be+absolutely+precise." alt="Quote" />
 </p>
