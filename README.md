@@ -15,7 +15,7 @@
 
 <p align="center">
   🌍 Based in <b>Cairo, Egypt</b><br>
-  💻 Freelance Full-Stack Developer @ <b>Media Gate Company</b><br>
+  💻 Full-Stack Developer @ <b>LM Smart Solutions</b><br>
   🎓 CS Student @ <b>El Sewedy University (Polytechnic of Egypt)</b><br>
   🚀 <b>ALX Africa</b> Software Engineering Alumna
 </p>
