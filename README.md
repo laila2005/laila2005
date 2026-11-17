@@ -30,45 +30,21 @@
 ---
 
 <p align="center">
-  <img src="assets/trophies.svg?v=1" alt="Awards: 3rd place at Agents at Work, Galactic Problem Solver at NASA Space Apps 2026, Best Squad at Banque Misr" width="100%" />
+  <img src="assets/trophies.svg?v=2" alt="Awards: 3rd place at Agents at Work, Galactic Problem Solver at NASA Space Apps 2026, Best Squad at Banque Misr" width="100%" />
 </p>
 
 ---
 
 ## 🔥 Featured work
 
-<table>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://my-portfolio-mm2c.vercel.app/projects/zagel"><img src="assets/card-zagel.svg?v=1" alt="Zagel" width="100%" /></a><br>
-      <sub><a href="https://zagel-orpin.vercel.app/">Live</a> &nbsp;·&nbsp; <a href="https://github.com/laila2005/messaging-system">Source</a> &nbsp;·&nbsp; <a href="https://my-portfolio-mm2c.vercel.app/projects/zagel">Case study</a></sub>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://my-portfolio-mm2c.vercel.app/projects/inqaz"><img src="assets/card-inqaz.svg?v=1" alt="Inqaz-app" width="100%" /></a><br>
-      <sub><a href="https://my-portfolio-mm2c.vercel.app/projects/inqaz">Case study</a></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://my-portfolio-mm2c.vercel.app/projects/riselist"><img src="assets/card-riselist.svg?v=1" alt="RiseList" width="100%" /></a><br>
-      <sub><a href="https://rise-list.vercel.app">Live</a> &nbsp;·&nbsp; <a href="https://my-portfolio-mm2c.vercel.app/projects/riselist">Case study</a></sub>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://my-portfolio-mm2c.vercel.app/projects/flamelens"><img src="assets/card-flamelens.svg?v=1" alt="FlameLens" width="100%" /></a><br>
-      <sub><a href="https://flamelens-steel.vercel.app/">Live</a> &nbsp;·&nbsp; <a href="https://my-portfolio-mm2c.vercel.app/projects/flamelens">Case study</a></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://my-portfolio-mm2c.vercel.app/projects/talentscout-ai-lili"><img src="assets/card-lili.svg?v=1" alt="TalentScout AI x Lili" width="100%" /></a><br>
-      <sub><a href="https://lili-hr-agent.vercel.app">Live</a> &nbsp;·&nbsp; <a href="https://my-portfolio-mm2c.vercel.app/projects/talentscout-ai-lili">Case study</a></sub>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://youtu.be/MUpSX5gP1y4"><img src="assets/card-lm-reservations.svg?v=1" alt="LM Reservations" width="100%" /></a><br>
-      <sub><a href="https://youtu.be/MUpSX5gP1y4">Demo video</a></sub>
-    </td>
-  </tr>
-</table>
+| | Project | What it does | Try it |
+| :-: | --- | --- | --- |
+| 💬 | **Zagel** | Enterprise real-time messaging: client-side end-to-end encryption and 1080p peer-to-peer video calls. Next.js, FastAPI, WebSockets and WebRTC, with a native Android build from the same codebase | [Live](https://zagel-orpin.vercel.app/) · [Source](https://github.com/laila2005/messaging-system) · [Case study](https://my-portfolio-mm2c.vercel.app/projects/zagel) |
+| 🚑 | **Inqaz-app** | Highway emergency response: computer vision detects accidents from a live camera feed, triages them and dispatches help with exact GPS | [Case study](https://my-portfolio-mm2c.vercel.app/projects/inqaz) |
+| 🎙️ | **RiseList** | Voice-first productivity: Gemini AI turns a rambling voice note into a prioritised, scheduled day. Flutter, Firebase | [Live](https://rise-list.vercel.app) · [Case study](https://my-portfolio-mm2c.vercel.app/projects/riselist) |
+| 🛰️ | **FlameLens** | NASA Space Apps 2026 fire-evidence dashboard, built with team AstroSpark | [Live](https://flamelens-steel.vercel.app/) · [Case study](https://my-portfolio-mm2c.vercel.app/projects/flamelens) |
+| 🤖 | **TalentScout AI × Lili** | CV-screening AI agent, 3rd place at Agents at Work | [Live](https://lili-hr-agent.vercel.app) · [Case study](https://my-portfolio-mm2c.vercel.app/projects/talentscout-ai-lili) |
+| 📅 | **LM Reservations** | Restaurant booking for hotels and resorts, built at LM Smart Solutions | [Demo video](https://youtu.be/MUpSX5gP1y4) |
 
 ---
 
