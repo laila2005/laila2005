@@ -1,28 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 190" width="920" height="190" role="img" aria-label="Awards: 3rd place at Agents at Work, Galactic Problem Solver at NASA Space Apps 2026, Best Squad at Banque Misr">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#1b1038"/></linearGradient>
-    <linearGradient id="grad" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8B5CF6"/><stop offset="1" stop-color="#F0ABFC"/></linearGradient>
-    <linearGradient id="bronze" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F5C28A"/><stop offset="1" stop-color="#B8733A"/></linearGradient>
-  </defs>
-  <style>
-    text { font-family: 'Segoe UI','Helvetica Neue',Arial,sans-serif; }
-    .mono { font-family: 'Consolas','Courier New',monospace; }
-  </style>
-  <rect width="920" height="190" rx="20" fill="url(#bg)"/><rect x=".75" y=".75" width="918.5" height="188.5" rx="19.5" fill="none" stroke="#A78BFA" stroke-opacity=".35" stroke-width="1.5"/>
-  <text x="32" y="38" font-size="12" font-weight="700" letter-spacing="4" fill="#A78BFA">TROPHY SHELF</text>
-  <rect x="32" y="56" width="274" height="108" rx="14" fill="#fff" fill-opacity=".05" stroke="#A78BFA" stroke-opacity=".35"/>
-  <g transform="translate(84 110)"><path d="M-14 -34 L-6 -6 L6 -6 L14 -34Z" fill="#A78BFA" fill-opacity=".55"/><circle r="20" cy="10" fill="url(#bronze)" stroke="#FDE9CF" stroke-width="2"/><text y="18" text-anchor="middle" font-size="22" font-weight="700" fill="#5a3213">3</text></g>
-  <text x="132" y="92" font-size="10.5" font-weight="700" letter-spacing="1.5" fill="#C4B5FD">3RD PLACE · SOLO</text>
-  <text x="132" y="118" font-size="20" font-weight="700" fill="#fff">Agents at Work</text>
-  <text x="132" y="140" font-size="13.5" fill="#cfc9ea">Hackathon</text>
-  <rect x="323" y="56" width="274" height="108" rx="14" fill="#fff" fill-opacity=".05" stroke="#A78BFA" stroke-opacity=".35"/>
-  <g transform="translate(375 110)"><circle r="30" fill="#A78BFA" fill-opacity=".18" stroke="#C4B5FD" stroke-width="2"/><path d="M0 -20 C10 -10 10 8 5 16 L-5 16 C-10 8 -10 -10 0 -20Z" fill="#EDE9FE" stroke="#C4B5FD" stroke-width="1.5"/><circle cy="-4" r="4" fill="#6D28D9"/><path d="M-5 10 L-14 18 L-5 16Z M5 10 L14 18 L5 16Z" fill="#F0ABFC"/><path d="M-3 20 L0 28 L3 20Z" fill="#FBBF24"/></g>
-  <text x="423" y="92" font-size="10.5" font-weight="700" letter-spacing="1.5" fill="#C4B5FD">GALACTIC PROBLEM SOLVER</text>
-  <text x="423" y="118" font-size="20" font-weight="700" fill="#fff">NASA Space Apps</text>
-  <text x="423" y="140" font-size="13.5" fill="#cfc9ea">2026</text>
-  <rect x="614" y="56" width="274" height="108" rx="14" fill="#fff" fill-opacity=".05" stroke="#A78BFA" stroke-opacity=".35"/>
-  <g transform="translate(666 110)"><path d="M0 -28 L22 -19 L22 2 C22 16 12 24 0 30 C-12 24 -22 16 -22 2 L-22 -19Z" fill="#A78BFA" fill-opacity=".25" stroke="#C4B5FD" stroke-width="2" stroke-linejoin="round"/><path d="M0 -12 L4 -3 L14 -2 L6 5 L9 15 L0 9 L-9 15 L-6 5 L-14 -2 L-4 -3Z" fill="#F0ABFC" stroke="#EDE9FE" stroke-width="1"/></g>
-  <text x="714" y="92" font-size="10.5" font-weight="700" letter-spacing="1.5" fill="#C4B5FD">BEST SQUAD</text>
-  <text x="714" y="118" font-size="20" font-weight="700" fill="#fff">Banque Misr</text>
-  <text x="714" y="140" font-size="13.5" fill="#cfc9ea">Data Governance program</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 150" width="920" height="150" role="img" aria-label="Recognition: 3rd place at the Agents at Work hackathon, Galactic Problem Solver at NASA Space Apps 2026, Best Squad at Banque Misr">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#171030"/></linearGradient></defs>
+  <style>text{font-family:'Segoe UI','Helvetica Neue',Arial,sans-serif}</style>
+  <rect width="920" height="150" rx="16" fill="url(#bg)"/>
+  <rect x=".75" y=".75" width="918.5" height="148.5" rx="15.5" fill="none" stroke="#A78BFA" stroke-opacity=".3" stroke-width="1.5"/>
+  <text x="32" y="36" font-size="11" font-weight="700" letter-spacing="3.5" fill="#A78BFA">RECOGNITION</text>
+  <g transform="translate(52 91)" fill="none" stroke="#C4B5FD" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="-20" y="-20" width="40" height="40" rx="10" stroke-opacity=".45"/>
+    <g transform="scale(.8)"><circle cx="0" cy="3" r="8"/><path d="M-5 -4 L-8 -14 M5 -4 L8 -14 M-8 -14 L8 -14"/><path d="M0 -1 L1.6 2.2 L5 2.6 L2.5 5 L3.2 8.4 L0 6.8 L-3.2 8.4 L-2.5 5 L-5 2.6 L-1.6 2.2Z"/></g>
+  </g>
+  <text x="88" y="74" font-size="10" font-weight="600" letter-spacing="1.4" fill="#9a95b8">AGENTS AT WORK · HACKATHON</text>
+  <text x="88" y="98" font-size="17" font-weight="700" fill="#ffffff">3rd place</text>
+  <text x="88" y="117" font-size="12.5" fill="#b9b3d6">Solo entry</text>
+  <line x1="317.3333333333333" y1="58" x2="317.3333333333333" y2="124" stroke="#A78BFA" stroke-opacity=".22"/>
+  <g transform="translate(361.3333333333333 91)" fill="none" stroke="#C4B5FD" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="-20" y="-20" width="40" height="40" rx="10" stroke-opacity=".45"/>
+    <g transform="scale(.8)"><circle r="4.2"/><ellipse rx="14" ry="5.5" transform="rotate(-28)"/><circle cx="10.5" cy="-8.2" r="1.6" fill="#C4B5FD"/></g>
+  </g>
+  <text x="397.3333333333333" y="74" font-size="10" font-weight="600" letter-spacing="1.4" fill="#9a95b8">NASA SPACE APPS · 2026</text>
+  <text x="397.3333333333333" y="98" font-size="17" font-weight="700" fill="#ffffff">Galactic Problem Solver</text>
+  <text x="397.3333333333333" y="117" font-size="12.5" fill="#b9b3d6">Team AstroSpark</text>
+  <line x1="602.6666666666666" y1="58" x2="602.6666666666666" y2="124" stroke="#A78BFA" stroke-opacity=".22"/>
+  <g transform="translate(646.6666666666666 91)" fill="none" stroke="#C4B5FD" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="-20" y="-20" width="40" height="40" rx="10" stroke-opacity=".45"/>
+    <g transform="scale(.8)"><path d="M0 -13 L11 -9 L11 0 C11 8 5.5 12.5 0 15 C-5.5 12.5 -11 8 -11 0 L-11 -9Z"/><path d="M-4.5 1 L-1 4.5 L5 -2.5"/></g>
+  </g>
+  <text x="682.6666666666666" y="74" font-size="10" font-weight="600" letter-spacing="1.4" fill="#9a95b8">BANQUE MISR</text>
+  <text x="682.6666666666666" y="98" font-size="17" font-weight="700" fill="#ffffff">Best Squad</text>
+  <text x="682.6666666666666" y="117" font-size="12.5" fill="#b9b3d6">Data Governance program</text>
 </svg>
