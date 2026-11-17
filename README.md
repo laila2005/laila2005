@@ -27,16 +27,9 @@
 
 > I wrote my first line of code in elementary school, teaching myself JavaScript when it wasn't even a subject. I've been metamorphosing ever since.
 
-```mermaid
-timeline
-    title The metamorphosis
-    Elementary school : First line of code : self-taught JavaScript
-    2023 : Started an AI degree at Egyptian Russian University : Began ALX Africa Software Engineering
-    2025 : Transferred to El Sewedy University of Technology : Shipped Bagi Job as a freelance full-stack engineer : Finished ALX Africa
-    Nov 2025 : Co-founded LM Smart Solutions
-    2026 : NASA Space Apps Galactic Problem Solver : 3rd place at Agents at Work, solo
-    2027 : Graduation
-```
+<p align="center">
+  <img src="assets/metamorphosis.svg" alt="The metamorphosis: from a first line of code in elementary school to co-founder of LM Smart Solutions" width="100%" />
+</p>
 
 ---
 
@@ -56,10 +49,12 @@ timeline
 
 | | Project | What it does | Try it |
 | :-: | --- | --- | --- |
-| 🛰️ | **FlameLens** | Wildfire detection, built for NASA Space Apps 2026 with team AstroSpark | [Live](https://flamelens-steel.vercel.app/) · [Case study](https://my-portfolio-mm2c.vercel.app/projects/flamelens) |
-| 🤖 | **TalentScout AI × Lili** | An AI hiring agent that screens candidates, built on Wessam AI | [Live](https://lili-hr-agent.vercel.app) · [Case study](https://my-portfolio-mm2c.vercel.app/projects/talentscout-ai-lili) |
-| 📅 | **LM Reservations** | A booking platform built at LM Smart Solutions | [Demo video](https://youtu.be/MUpSX5gP1y4) |
-| 🦋 | **My portfolio** | React, TypeScript and Supabase, with a butterfly swarm and my own admin page | [Visit](https://my-portfolio-mm2c.vercel.app/) |
+| 💬 | **Zagel** | Enterprise real-time messaging: client-side end-to-end encryption and 1080p peer-to-peer video calls. Next.js, FastAPI, WebSockets and WebRTC, with a native Android build from the same codebase | [Live](https://zagel-orpin.vercel.app/) · [Source](https://github.com/laila2005/messaging-system) · [Case study](https://my-portfolio-mm2c.vercel.app/projects/zagel) |
+| 🚑 | **Inqaz-app** | Highway emergency response: computer vision detects accidents from a live camera feed, triages them and dispatches help with exact GPS | [Case study](https://my-portfolio-mm2c.vercel.app/projects/inqaz) |
+| 🎙️ | **RiseList** | Voice-first productivity: Gemini AI turns a rambling voice note into a prioritised, scheduled day. Flutter, Firebase | [Live](https://rise-list.vercel.app) · [Case study](https://my-portfolio-mm2c.vercel.app/projects/riselist) |
+| 🛰️ | **FlameLens** | NASA Space Apps 2026 fire-evidence dashboard, built with team AstroSpark | [Live](https://flamelens-steel.vercel.app/) · [Case study](https://my-portfolio-mm2c.vercel.app/projects/flamelens) |
+| 🤖 | **TalentScout AI × Lili** | CV-screening AI agent, 3rd place at Agents at Work | [Live](https://lili-hr-agent.vercel.app) · [Case study](https://my-portfolio-mm2c.vercel.app/projects/talentscout-ai-lili) |
+| 📅 | **LM Reservations** | Restaurant booking for hotels and resorts, built at LM Smart Solutions | [Demo video](https://youtu.be/MUpSX5gP1y4) |
 
 ---
 
@@ -75,7 +70,7 @@ timeline
 <summary><b>🧭 Choose your path: what are you here for?</b></summary>
 <br>
 
-- **Hiring?** Start with [FlameLens](https://flamelens-steel.vercel.app/) and [Lili](https://lili-hr-agent.vercel.app), my two most complete products.
+- **Hiring?** Start with [Zagel](https://zagel-orpin.vercel.app/): live, public source, and a real-time system from the architecture down to the encryption. Then [Inqaz](https://my-portfolio-mm2c.vercel.app/projects/inqaz) for AI and computer vision.
 - **Want the full picture?** The [portfolio](https://my-portfolio-mm2c.vercel.app/) has every project, with the exact skills each one used.
 - **Want to collaborate?** [Email me](mailto:laila.mohamed.fikry@gmail.com). I answer fast.
 
