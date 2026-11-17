@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/Status-Open_to_remote_work-0d1117?style=flat-square&logo=statuspal&logoColor=34D399" />
 </p>
 
-<p align="center"><b>Looking for:</b> full-stack · backend · AI-product engineering roles (remote)</p>
+<p align="center"><b>Looking for:</b> Full-Stack Engineer roles · Remote</p>
 
 ---
 
