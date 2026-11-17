@@ -24,7 +24,7 @@
 ---
 
 <p align="center">
-  <img src="assets/metamorphosis.svg?v=2" alt="My story: I wrote my first line of code in elementary school and have been metamorphosing ever since" width="100%" />
+  <img src="assets/metamorphosis.svg?v=3" alt="My story: I wrote my first line of code in elementary school and have been building ever since" width="100%" />
 </p>
 
 ---
