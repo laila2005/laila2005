@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://my-portfolio-mm2c.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1100&color=A78BFA&center=true&vCenter=true&width=640&height=40&lines=%3E+console.log(%22Hello%2C+World%22)+%E2%80%94+age+of+elementary+school;Full-Stack+Engineer+%C2%B7+React+%C2%B7+.NET+%C2%B7+FastAPI;Co-founder+%40+LM+Smart+Solutions;NASA+Space+Apps+2026+%C2%B7+Galactic+Problem+Solver;3rd+place+%C2%B7+Agents+at+Work+hackathon;Open+to+remote+work+%F0%9F%8C%8D" alt="typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1100&color=A78BFA&center=true&vCenter=true&width=900&height=40&lines=console.log(%22Hello%2C+World%22)+%E2%80%94+my+first+line;Full-Stack+Engineer+%C2%B7+React+%C2%B7+.NET+%C2%B7+FastAPI;Co-founder+%40+LM+Smart+Solutions;NASA+Space+Apps+2026+%C2%B7+Galactic+Problem+Solver;3rd+place+%C2%B7+Agents+at+Work+hackathon;Open+to+remote+work+%F0%9F%8C%8D" alt="typing intro" />
   </a>
 </p>
 
