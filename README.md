@@ -21,17 +21,7 @@
   <img src="https://img.shields.io/badge/Status-Open_to_remote_work-0d1117?style=flat-square&logo=statuspal&logoColor=34D399" />
 </p>
 
----
-
-<p align="center">
-  <img src="assets/metamorphosis.svg?v=3" alt="My story: I wrote my first line of code in elementary school and have been building ever since" width="100%" />
-</p>
-
----
-
-<p align="center">
-  <img src="assets/trophies.svg?v=4" alt="Awards: 3rd place at Agents at Work, Galactic Problem Solver at NASA Space Apps 2026, Best Squad at Banque Misr" width="100%" />
-</p>
+<p align="center"><b>Looking for:</b> full-stack · backend · AI-product engineering roles (remote)</p>
 
 ---
 
@@ -45,6 +35,18 @@
 | 🛰️ | **FlameLens** | NASA Space Apps 2026 fire-evidence dashboard, built with team AstroSpark | [Live](https://flamelens-steel.vercel.app/) · [Case study](https://my-portfolio-mm2c.vercel.app/projects/flamelens) |
 | 🤖 | **TalentScout AI × Lili** | CV-screening AI agent, 3rd place at Agents at Work | [Live](https://lili-hr-agent.vercel.app) · [Case study](https://my-portfolio-mm2c.vercel.app/projects/talentscout-ai-lili) |
 | 📅 | **LM Reservations** | Restaurant booking for hotels and resorts, built at LM Smart Solutions | [Demo video](https://youtu.be/MUpSX5gP1y4) |
+
+---
+
+<p align="center">
+  <img src="assets/trophies.svg?v=4" alt="Awards: 3rd place at Agents at Work, Galactic Problem Solver at NASA Space Apps 2026, Best Squad at Banque Misr" width="100%" />
+</p>
+
+---
+
+<p align="center">
+  <img src="assets/metamorphosis.svg?v=3" alt="My story: I wrote my first line of code in elementary school and have been building ever since" width="100%" />
+</p>
 
 ---
 
@@ -71,14 +73,6 @@
 ## 🎨 Beyond code
 
 I paint, I travel, and I like adventure. The butterflies on my portfolio come from my art. I think the best engineering comes from people who make things for the joy of it.
-
----
-
-## 📊 My GitHub, by the numbers
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laila2005&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
-</p>
 
 ---
 
