@@ -1,6 +1,6 @@
 <!-- Header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,50:6D28D9,100:A78BFA&text=Laila%20Mohamed%20Fikry&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=%F0%9F%A6%8B%20I%20turn%20ideas%20into%20products%20that%20actually%20ship&descSize=18&descAlignY=60&animation=fadeIn" alt="Laila Mohamed Fikry" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0d1117,50:6D28D9,100:A78BFA&text=Laila%20Mohamed%20Fikry&fontColor=ffffff&fontSize=44&fontAlignY=40&desc=%F0%9F%A6%8B%20I%20turn%20ideas%20into%20products%20that%20actually%20ship&descSize=17&descAlignY=64&animation=fadeIn" alt="Laila Mohamed Fikry" />
 </p>
 
 <p align="center">
