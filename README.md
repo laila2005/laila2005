@@ -30,7 +30,7 @@
 ---
 
 <p align="center">
-  <img src="assets/trophies.svg?v=3" alt="Awards: 3rd place at Agents at Work, Galactic Problem Solver at NASA Space Apps 2026, Best Squad at Banque Misr" width="100%" />
+  <img src="assets/trophies.svg?v=4" alt="Awards: 3rd place at Agents at Work, Galactic Problem Solver at NASA Space Apps 2026, Best Squad at Banque Misr" width="100%" />
 </p>
 
 ---
