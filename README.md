@@ -1,62 +1,50 @@
-<p align="center">
-  <img src="https://media1.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=6c09b95217pzr4zt7orsvle5zaj3z6ra9b13xilh57xkx5fg&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="450"/>
-</p>
-
-<h1 align="center">✨ Hi, I'm Laila Mohamed Fikry ✨</h1>
+<h1 align="center">🦋 Laila Mohamed Fikry</h1>
 
 <p align="center">
-  <strong>Full-Stack Software Engineer | .NET & JavaScript Specialist</strong>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/laila-mohamed23"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:laila.mohamed.fikry@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://my-portfolio-mm2c.vercel.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=8B5CF6&center=true&vCenter=true&width=620&lines=Full-Stack+Engineer+%C2%B7+React+%C2%B7+.NET+%C2%B7+FastAPI;Co-founder+%40+LM+Smart+Solutions;NASA+Space+Apps+2026+%C2%B7+Galactic+Problem+Solver;3rd+place+%C2%B7+Agents+at+Work+hackathon;Writing+my+first+line+of+code+in+elementary+school" alt="Typing intro" />
+  </a>
 </p>
 
 <p align="center">
-  🌍 Based in <b>Cairo, Egypt</b><br>
-  💻 Full-Stack Developer @ <b>LM Smart Solutions</b><br>
-  🎓 CS Student @ <b>El Sewedy University (Polytechnic of Egypt)</b><br>
-  🚀 <b>ALX Africa</b> Software Engineering Alumna
+  <a href="https://my-portfolio-mm2c.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/laila-mohamed23"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:laila.mohamed.fikry@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
+<p align="center"><em>Open to remote work · Cairo, Egypt</em></p>
 
 ---
 
-### 💻 About Me
-I am a **Software Engineer** specializing in building scalable, data-driven applications. Currently, I am contributing to the **Bagi Job** platform at Media Gate Company, focusing on full-stack development and system scaling. With a background in the **ALX Africa SE program**, I have experience developing over 30 projects ranging from backend ecosystems to interactive web platforms.
+### 🌱 My story in one breath
+I taught myself JavaScript in elementary school, before it was ever a subject. Since then I finished the ALX Africa Software Engineering program, moved into software development at El Sewedy University of Technology (graduating 2027), and co-founded **LM Smart Solutions**, where I build real products for real clients. I also paint, which is why my portfolio has butterflies.
 
-I am passionate about clean architecture, high-performance backends, and efficient database management. I thrive in dynamic environments where I can apply my skills in **ASP.NET Core** and **Modern JavaScript** to solve real-world problems.
+### 🏆 Recognition
+- 🥉 **3rd place, solo** · Agents at Work hackathon
+- 🚀 **Galactic Problem Solver** · NASA Space Apps 2026
+- 🏅 **Best Squad** · Banque Misr Data Governance program
 
----
+### 🔥 Featured work
+| Project | What it is | Links |
+| --- | --- | --- |
+| **FlameLens** | Wildfire detection built for NASA Space Apps 2026 with team AstroSpark | [Live](https://flamelens-steel.vercel.app/) · [Case study](https://my-portfolio-mm2c.vercel.app/projects/flamelens) |
+| **TalentScout AI × Lili** | AI hiring agent that screens candidates, built on Wessam AI | [Live](https://lili-hr-agent.vercel.app) · [Case study](https://my-portfolio-mm2c.vercel.app/projects/talentscout-ai-lili) |
+| **LM Reservations** | Booking platform built at LM Smart Solutions | [Demo video](https://youtu.be/MUpSX5gP1y4) |
+| **This portfolio** | React, TypeScript and Supabase, with an admin page | [Visit](https://my-portfolio-mm2c.vercel.app/) |
 
-### 🛠️ Professional Toolbox
-
-#### 🖥️ Languages & Core
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,js,py,java,cpp,dart,bash,r" />
+### 🛠️ Toolbox
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,py,cs,dart&perline=10" /><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,dotnet,fastapi,flutter&perline=10" /><br>
+  <img src="https://skillicons.dev/icons?i=supabase,postgres,mongodb,firebase,vercel,git,github,linux&perline=10" />
 </p>
 
-#### 🌐 Web & Backend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,react,nextjs,html,css,tailwind,bootstrap" />
+### 📊 GitHub
+<p>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=laila2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=laila2005&theme=tokyonight&hide_border=true&background=0d1117" />
 </p>
 
-#### 📱 Mobile & Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,firebase,mysql,postgres,mongodb" />
-</p>
+<p align="center"><em>"The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise." (Dijkstra)</em></p>
 
-#### ⚙️ DevTools & OS
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux,ubuntu,postman" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The+purpose+of+abstraction+is+not+to+be+vague,+but+to+create+a+new+semantic+level+in+which+one+can+be+absolutely+precise." alt="Quote" />
-</p>
-
-<p align="center">
-  🚀 <em>Open for technical collaborations and innovative software projects!</em>
-</p>
+<p align="center">🦋 <em>Let's build something that matters. <a href="mailto:laila.mohamed.fikry@gmail.com">Say hello</a>.</em></p>
