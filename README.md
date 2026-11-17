@@ -23,12 +23,8 @@
 
 ---
 
-## 🥚 → 🐛 → 🦋  My story
-
-> I wrote my first line of code in elementary school, teaching myself JavaScript when it wasn't even a subject. I've been metamorphosing ever since.
-
 <p align="center">
-  <img src="assets/metamorphosis.svg" alt="The metamorphosis: from a first line of code in elementary school to co-founder of LM Smart Solutions" width="100%" />
+  <img src="assets/metamorphosis.svg?v=2" alt="My story: I wrote my first line of code in elementary school and have been metamorphosing ever since" width="100%" />
 </p>
 
 ---
